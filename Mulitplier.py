@@ -1,0 +1,1 @@
+print("Multiplication is:", 2*6)
